@@ -106,7 +106,7 @@ See [LICENSE](https://github.com/v-espitalier/rust-algorithms/blob/main/LICENSE)
 
 Voilà une recueil d'algorithmes courants, implémentés en langage Rust, pour se faire une idée du langage. Peut éventuellement servir pour préparer des cours.
 
-![Exemples d'algorithmes implémentés](images/exemples_algos.png)
+![Exemples d'algorithmes implémentés](images/exemples_algos_fr.png)
 
 ## Téléchargement / utilisation
 
