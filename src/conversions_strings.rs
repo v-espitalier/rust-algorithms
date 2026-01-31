@@ -1,16 +1,16 @@
+//! Rust String Conversion Utilities
+//!
+//! Demonstrates idiomatic conversions between `String`, `&str`, `Vec<char>`, and `Vec<u8>`,
+//! including handling of raw strings and UTF-8 validation.
+//! Source: <https://gist.github.com/jimmychu0807/9a89355e642afad0d2aeda52e6ad2424>
+//!
+//! Date: June 2024
 
-// Ne pas faire de warning s'il y a des parenthèses en trop autour des conditions des if
-#![allow(unused_parens)]
-
-// Ne pas faire de warning si des fonctions ne sont pas appelées
+// Don't make warning if this function is never called
 #![warn(dead_code)]
-
 
 use std::str;
 
-///////////////////////////////////////////////////////////////////////////////////
-// Source: https://gist.github.com/jimmychu0807/9a89355e642afad0d2aeda52e6ad2424 //
-///////////////////////////////////////////////////////////////////////////////////
 fn string_conversions() {
   // -- FROM: vec of chars --
   let src1: Vec<char> = vec!['j','{','"','i','m','m','y','"','}'];

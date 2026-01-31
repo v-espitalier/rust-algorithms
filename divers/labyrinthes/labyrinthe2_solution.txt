@@ -1,23 +1,23 @@
 Source: https://www.asciiart.eu/art-and-design/mazes                       |  
 ,-----------.-----------.--------------------.-----------.-----------------.  
-|oxxxxxxxxoo|oxxxxxxxxxo|oxxxxxxxxxxxxxxxxxxo|ooooooooooo|xxxxxxxoooooooooo|  
-|ox,-----xoo|ox,-----.xo|ox.oo,-----------.xo`--------ooo|xo,--.xo.oo,--ooo|  
-|ox|oxxxxxoo|ox|ooooo|xo|ox|oo|ooooooooooo|xooooooooooooo|xo|oo|xo|oo|ooooo|  
-|ox|ox,-----'ox|oo.oo|xo|ox`--"--------.oo"xo,-----------'xo"oo|xo`--"-----:  
-|ox|ox|ooooooxx|oo|oo|xo|oxxxxxxxxxxxxo|oxxxo|xxxxxxxxxxxxxoooo|xxxxxxxxxoo|  
-|ox|ox|ooo--.xo|oo`--:xo|oo,--------.xo|ox,--:xo,--.-----------"--------xoo|  
-|ox|ox|ooooo|xo|ooooo|xx|oo|oooooooo|xo|ox|o@|xo|oo|oxxxxxxxxxxxxxxxxxxxxoo|  
-|ox|ox`-----'xo|ooo--'ox|oo`-----ooo|xo|ox|ox|xo|oo|ox,--------.--------.oo|  
-|ox|oxxxxxxxxxo|ooooooox|ooooooooooo|xo|ox|ox|xo|oo|ox|oooooooo|oooooooo|oo|  
-|ox`-----------"-----.ox`-----------:xo|ox"ox|xo|oo|ox|oo,--ooo|oo,--.oo|oo|  
-|oxxxxxxxxxxxxxxxxxxo|oxxxxxxxxxxxxo|xo|oxxxx|xo|oo|ox|oo|ooooo|oo|oo|oo|oo|  
-|oo,--------------.xo:-----------.xx|xx`-----:xo|oo|ox|oo`-----'oo"oo|oo|oo|  
+|oxxxxxxxxoo|oxxxxxxxxxx|oxxxxxxxxxxxxxxxxxxo|ooooooooooo|xxxxxxxoooooooooo|  
+|ox,-----xoo|ox,-----.ox|ox.oo,-----------.xo`--------ooo|xo,--.xx.oo,--ooo|  
+|ox|oxxxxxoo|ox|ooooo|ox|ox|oo|ooooooooooo|xooooooooooooo|xo|oo|ox|oo|ooooo|  
+|ox|ox,-----'ox|oo.oo|ox|ox`--"--------.oo"xo,-----------'xo"oo|ox`--"-----:  
+|ox|ox|ooooooox|oo|oo|ox|oxxxxxxxxxxxxo|oxxxo|xxxxxxxxxxxxxoooo|oxxxxxxxxoo|  
+|ox|ox|ooo--.ox|oo`--:ox|oo,--------.xo|ox,--:xo,--.-----------"--------xoo|  
+|ox|ox|ooooo|ox|ooooo|ox|oo|oooooooo|xo|ox|o@|xo|oo|oxxxxxxxxxxxxxxxxxxxxoo|  
+|ox|ox`-----'ox|ooo--'ox|oo`-----ooo|xo|ox|ox|xo|oo|ox,--------.--------.oo|  
+|ox|oxxxxxxxxxx|ooooooox|ooooooooooo|xo|ox|xx|xo|oo|ox|oooooooo|oooooooo|oo|  
+|ox`-----------"-----.ox`-----------:xx|ox"xo|xo|oo|ox|oo,--ooo|oo,--.oo|oo|  
+|oxxxxxxxxxxxxxxxxxxo|oxxxxxxxxxxxxo|ox|oxxxo|xo|oo|ox|oo|ooooo|oo|oo|oo|oo|  
+|oo,--------------.xo:-----------.xx|ox`-----:xo|oo|ox|oo`-----'oo"oo|oo|oo|  
 |oo|oooooooooooooo|xo|ooooooooooo|ox|oxxxxxoo|xo|oo|ox|oooooooooooooo|oo|oo|  
 |oo|oo,--------.oo|xo|oo,-----.oo|ox:-----xoo|xo|oo|ox`--------------:oo"oo|  
 |oo|oo|oooooooo|oo|xo|oo|ooooo|oo|ox|oxxxxxoo|xo|oo|oxxxxxxxxxxxxxxxo|ooooo|  
 |oo|oo`-----ooo|oo|xo|oo|oo.oo|oo|ox|ox,-----'xo|oo`--------------.xo`-----:  
-|oo|ooooooooooo|oo|xo|oo|oo|oo|oo|ox|ox|xxxxxxxo|ooooooooooooooooo|xxxxoooo|  
-|oo`-----------'oo|xo|oo|oo|oo|oo|ox|ox|xo,-----'oo,-----------.oo:--.xo.oo|  
+|oo|ooooooooooo|oo|xo|oo|oo|oo|oo|ox|ox|oxxxxxxo|ooooooooooooooooo|xxxxoooo|  
+|oo`-----------'oo|xo|oo|oo|oo|oo|ox|ox|xx,-----'oo,-----------.oo:--.xo.oo|  
 |ooooooooooooooooo|xo|oo|oo|oo|oo|ox|ox|xo|oooooooo|ooooooooooo|oo|oo|xo|oo|  
 :-----------------'xo|oo|oo|oo|oo|ox|ox|xo|oo,--.oo|ooo-----.oo|oo|oo|xo|oo|  
 |oxxxxxxxxxxxxxxxxxxo|oo|oo|oo|oo|ox|ox|xo|oo|oo|oo|oooooooo|oo|oo|oo|xo|oo|  
@@ -30,23 +30,23 @@ Source: https://www.asciiart.eu/art-and-design/mazes                       |
 |oo`--ooo|ox,-----.oo:--------"-----"--'xo|ooo--:oo:-----------------'xo|oo|  
 |oooooooo|ox|ooooo|oo|oxxxxxxxxxxxxxxxxxxo|ooooo|oo|oxxxxxxxxxxxxxxxxxxo|oo|  
 :-----.oo|ox|ooo--:oo|ox,-----------.-----"-----'oo|ox,--.--------------'oo|  
-|ooooo|oo|ox|ooooo|oo|xx|ooooooooooo|oooooooooooooo|ox|oo|ooooooooooooooooo|  
-|oo.oo|oo|ox|oo.oo"oo|xo:--------ooo`--ooo,-----.oo|ox|oo|oo,-----------.--:  
-|oo|oo|oo|ox|oo|ooooo|xo|ooooooooooooooooo|ooooo|oo|ox|oo|oo|ooooooooooo|oo|  
-|oo`--:oo|ox`--"-----'xo"oo.oo,--ooo,-----'ooo--'oo|ox|oo"oo|oo.ooo--.oo"oo|  
-|ooooo|oo|oxxxxxxxxxxxxoooo|oo|ooooo|oooooooooooooo|ox|ooooo|oo|ooooo|ooooo|  
-|oo.oo|oo:-----.-----------"--"-----"--.ooo--------:ox:--.oo`--"--.oo`-----:  
-|oo|oo|oo|ooooo|oxxxxxxxxxxxxxxxxxxxxxo|ooooooooooo|ox|oo|oooooooo|oooooooo|  
-|oo|oo|oo|oo.oo|ox,-----------------.xx`-----------'ox|oo`--.--.oo|oo,--.oo|  
-|oo|oo|oo|oo|oo|ox|                 |oxxxxxxxxxxxxxxxx|ooooo|oo|oo|oo|oo|oo|  
+|ooooo|oo|ox|ooooo|oo|ox|ooooooooooo|oooooooooooooo|ox|oo|ooooooooooooooooo|  
+|oo.oo|oo|ox|oo.oo"oo|ox:--------ooo`--ooo,-----.oo|ox|oo|oo,-----------.--:  
+|oo|oo|oo|ox|oo|ooooo|ox|ooooooooooooooooo|ooooo|oo|ox|oo|oo|ooooooooooo|oo|  
+|oo`--:oo|ox`--"-----'ox"oo.oo,--ooo,-----'ooo--'oo|ox|oo"oo|oo.ooo--.oo"oo|  
+|ooooo|oo|oxxxxxxxxxxxxxooo|oo|ooooo|oooooooooooooo|xx|ooooo|oo|ooooo|ooooo|  
+|oo.oo|oo:-----.-----------"--"-----"--.ooo--------:xo:--.oo`--"--.oo`-----:  
+|oo|oo|oo|ooooo|oxxxxxxxxxxxxxxxxxxxxxo|ooooooooooo|xo|oo|oooooooo|oooooooo|  
+|oo|oo|oo|oo.oo|ox,-----------------.xx`-----------'xo|oo`--.--.oo|oo,--.oo|  
+|oo|oo|oo|oo|oo|ox|                 |oxxxxxxxxxxxxxxxo|ooooo|oo|oo|oo|oo|oo|  
 |oo`--'oo|oo`--:ox|  ,--------------"--------------.--'oo.oo|oo|oo|oo|oo|oo|  
-|oooooooo|ooooo|ox|  |  ooooooooooooooooooooooooooo|ooooo|oo|oo|oo|oo|oo|oo|  
+|oooooooo|ooooo|ox|  | oooooooooooooooooooooooooooo|ooooo|oo|oo|oo|oo|oo|oo|  
 |oo,-----'oo.oo|ox|  |  ,--------.-----.oo,-----.oo|oo.oo|oo|oo|oo|oo|oo|oo|  
 |oo|oooooooo|oo|ox|  |  |        |     |oo|     |oo|oo|oo|oo|oo|oo|oo|oo|oo|  
 |oo`--------:oo|ox|  |  |  .  .  `--   |oo|  o--'oo|oo|oo|oo"oo|oo|oo|oo|oo|  
 |ooooooooooo|oo|ox|  |  |  |  |        |oo|oooooooo|oo|oo|ooooo|oo|oo|oo|oo|  
 :--------.oo|oo|ox|  "  `--'  :--------:oo|  o-----:oo|oo`-----'oo|oo"oo|oo|  
-|oooooooo|oo|oo|ox|           |ooxxxxxo|oo|        |oo|ooooooooooo|ooooo|oo|  
-|ooo-----'oo"oo|ox`-----------'oxx--.xo|oo`--------'oo`-----.ooo--"-----'oo|  
-|oooooooooooooo|oxxxxxxxxxxxxxxxxooo|xo|oooooooooooooooooooo|oooooooooooooo|  
-`--------------"--------------------'x$`--------------------"--------------'  
+|oooooooo|oo|oo|ox|           |ooxxxxxo|oo|  o     |oo|ooooooooooo|ooooo|oo|  
+|ooo-----'oo"oo|ox`-----------'oox--.xo|oo`--------'oo`-----.ooo--"-----'oo|  
+|oooooooooooooo|oxxxxxxxxxxxxxxxxxoo|xx|oooooooooooooooooooo|oooooooooooooo|  
+`--------------"--------------------'o$`--------------------"--------------'  

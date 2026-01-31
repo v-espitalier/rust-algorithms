@@ -2,11 +2,11 @@
 ,----------------------.
 |     ooo              |
 |    ooooo             |
-|  oooooooo            |
+|   ooooooo            |
 |  ooooooooo           |
-|oooooo@xxxxx$         |
+| ooooo@xxxxx$         |
 |  ooooooooo           |
 |   ooooooo            |
 |    ooooo             |
-|    oooo              |
+|     ooo              |
 `----------------------"
